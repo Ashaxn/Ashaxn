@@ -13,7 +13,7 @@
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="react" src="https://user-images.githubusercontent.com/37544078/111062514-4d01ea80-84cf-11eb-8d8a-7e2b2a036d79.png"
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="postman" src="https://user-images.githubusercontent.com/37544078/111062137-20e56a00-84cd-11eb-9b41-d12f6c281959.png"
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="java" src="https://user-images.githubusercontent.com/37544078/111062171-55f1bc80-84cd-11eb-9922-a193bdc75555.png"
-/>&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="androidstudio" src="https://user-images.githubusercontent.com/37544078/111062240-b08b1880-84cd-11eb-9771-e7acec22a2bc.png"
+/>&nbsp;&nbsp;&nbsp;<img height="30" width="28" alt="androidstudio" src="https://user-images.githubusercontent.com/37544078/111062240-b08b1880-84cd-11eb-9771-e7acec22a2bc.png"
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="cpp" src="https://user-images.githubusercontent.com/37544078/111062270-d87a7c00-84cd-11eb-8fce-338d1e07e0ce.png"
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="github" src="https://user-images.githubusercontent.com/37544078/111062392-7ec68180-84ce-11eb-8ed4-cbc1298fd8d0.png"
 />&nbsp;&nbsp;&nbsp;</p>
