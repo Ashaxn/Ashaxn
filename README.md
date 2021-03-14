@@ -2,7 +2,7 @@
 
 **Languages and Tools:**
 
-<p align="left"><img height="26" width="30" alt="VSCode" src="https://user-images.githubusercontent.com/37544078/111061689-a287c880-84ca-11eb-96c7-a100940f48da.png" 
+<p align="left"><img height="26" width="26" alt="VSCode" src="https://user-images.githubusercontent.com/37544078/111061689-a287c880-84ca-11eb-96c7-a100940f48da.png" 
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="visualstudio" src="https://user-images.githubusercontent.com/37544078/111062331-36a75f00-84ce-11eb-9046-eb33e16dabc6.png"     
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="html" src="https://user-images.githubusercontent.com/37544078/111061849-5721ea00-84cb-11eb-9bea-3f5f146ceb8d.png"
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="css" src="https://user-images.githubusercontent.com/37544078/111061890-951f0e00-84cb-11eb-9885-6332ebb216fc.png" 
