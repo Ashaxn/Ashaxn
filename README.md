@@ -5,9 +5,11 @@
 **Connect With Me:**
 
 <a href="https://www.linkedin.com/in/ashan-subawickrama/">
-  <img align="left" alt="Bharat's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Ashan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
+<a href="mailto:ashan.sql@gmail.com">
+  <img align="left" alt="Ashan's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 
 <br />
