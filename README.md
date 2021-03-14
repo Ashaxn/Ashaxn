@@ -50,10 +50,6 @@
   <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br />
-<br />
-
-> *Show some ❤️ by starring(⭐) some of the repositories !*
 
 
 
