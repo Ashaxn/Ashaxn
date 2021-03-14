@@ -1,12 +1,8 @@
-<p align="center">
 <h2>Hi all, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
-</p>
 
 ![copy4](https://user-images.githubusercontent.com/37544078/111061018-2049d500-84c7-11eb-98f9-5d09fc588fe6.png)
 
  <hr></hr>
-
-
 
 **About Me:**
 
