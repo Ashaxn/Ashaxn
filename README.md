@@ -2,7 +2,7 @@
 
  <hr></hr>
 
-<h2>Hi All, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
+<h2>Hi all, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
 **Languages and Tools:**
 
