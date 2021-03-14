@@ -3,7 +3,6 @@
  <hr></hr>
 
 
-
 **Languages and Tools:**
 
 <p align="left"><img height="26" width="26" alt="VSCode" src="https://user-images.githubusercontent.com/37544078/111061689-a287c880-84ca-11eb-96c7-a100940f48da.png" 
@@ -22,8 +21,6 @@
 />&nbsp;&nbsp;&nbsp;<img height="30" width="30" alt="github" src="https://user-images.githubusercontent.com/37544078/111062392-7ec68180-84ce-11eb-8ed4-cbc1298fd8d0.png"
 />&nbsp;&nbsp;&nbsp;</p>
 
-<br />
-<br />
 
 **Connect With Me:**
 
@@ -46,8 +43,6 @@
   <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br />
-<br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
 
