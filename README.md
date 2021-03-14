@@ -52,6 +52,9 @@
   <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
+<br>
+<br>
 
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=ashaxn.visitor-badge)
 
 
