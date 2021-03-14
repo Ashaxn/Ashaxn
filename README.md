@@ -4,6 +4,12 @@
 
 <h2>Hi all, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
+💡  I like to explore new technologies and develop software solutions and quick hacks.
+🎓  I’m currently studying Computer Science at <a href="https://www.sliit.lk/">SLIIT</a>.
+🌱  I’m on track for learning more about Algorithms, and Cloud Architecture.
+✉️  You can shoot me an email at ashan.sql@gmail.com! I’ll try to respond as soon as I can.
+📄  Please have a look at my <a href="https://www.ashano.tech/">Portfolio</a> for more details about me. I’m open to feedback and suggestions!
+
 **Languages and Tools:**
 
 <p align="left"><img height="26" width="26" alt="VSCode" src="https://user-images.githubusercontent.com/37544078/111061689-a287c880-84ca-11eb-96c7-a100940f48da.png" 
