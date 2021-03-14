@@ -4,13 +4,24 @@
 
 **Connect With Me:**
 
+<a href="https://www.ashano.tech/">
+  <img align="left" alt="Ashan's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+</a>
 <a href="https://www.linkedin.com/in/ashan-subawickrama/">
   <img align="left" alt="Ashan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="mailto:ashan.sql@gmail.com">
   <img align="left" alt="Ashan's GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<a href="https://twitter.com/ashansube">
+  <img align="left" alt="Ashan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/gr8ashan/">
+  <img align="left" alt="Ashan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC9txl705utOP5oA7zWR7NUQ">
+  <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 <br />
 <br />
