@@ -1,5 +1,7 @@
 ![copy4](https://user-images.githubusercontent.com/37544078/111061018-2049d500-84c7-11eb-98f9-5d09fc588fe6.png)
 
+ <hr></hr>
+
 **Languages and Tools:**
 
 <p align="left"><img height="26" width="26" alt="VSCode" src="https://user-images.githubusercontent.com/37544078/111061689-a287c880-84ca-11eb-96c7-a100940f48da.png" 
