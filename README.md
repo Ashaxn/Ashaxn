@@ -4,11 +4,11 @@
 
 <h2>Hi all, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
--💡  I like to explore new technologies and develop software solutions and quick hacks.
--🎓  I’m currently studying Computer Science at <a href="https://www.sliit.lk/">SLIIT</a>.
--🌱  I’m on track for learning more about Algorithms, and Cloud Architecture.
--✉️  You can shoot me an email at ashan.sql@gmail.com! I’ll try to respond as soon as I can.
--📄  Please have a look at my <a href="https://www.ashano.tech/">Portfolio</a> for more details about me. I’m open to feedback and suggestions!
+- 💡  I like to explore new technologies and develop software solutions and quick hacks.
+- 🎓  I’m currently studying Computer Science at <a href="https://www.sliit.lk/">SLIIT</a>.
+- 🌱  I’m on track for learning more about Algorithms, and Cloud Architecture.
+- ✉️  You can shoot me an email at ashan.sql@gmail.com! I’ll try to respond as soon as I can.
+- 📄  Please have a look at my <a href="https://www.ashano.tech/">Portfolio</a> for more details about me. I’m open to feedback and suggestions!
 
 **Languages and Tools:**
 
