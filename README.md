@@ -20,7 +20,7 @@
   <img align="left" alt="Ashan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UC9txl705utOP5oA7zWR7NUQ">
-  <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Ashan's YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br />
