@@ -1,5 +1,3 @@
-![Ashan LikedIn cover](https://user-images.githubusercontent.com/37544078/121670476-18e89680-cacb-11eb-8146-ff607800aabc.png)
-
 
 <h2>Hi all, I'm <a href="https://www.ashano.tech/">Ashan</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px"></h2>
 
