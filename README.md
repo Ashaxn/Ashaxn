@@ -8,7 +8,7 @@ import SoftwareDeveloper from 'ashaxn';
 class Bio extends SoftwareDeveloper {
   name     = 'Ashan Subawickrama';
   title    = 'Programmer';
-  education  = 'sliit | 3rd Year';
+  education  = 'SLIIT | 3rd Year';
   location = 'Malabe, Sri Lanka';
 }
 
