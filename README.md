@@ -9,3 +9,5 @@ hi, im ashan 🔮.
 ! program engineer, web developer and shitposter
 # 📖 reverse engineering, computer science
 ```
+
+<img align="right" height="200" src="https://media.giphy.com/media/ac53c0RDcdiK7svmFl/giphy.gif"/>
