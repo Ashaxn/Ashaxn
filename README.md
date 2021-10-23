@@ -22,5 +22,6 @@ hi, im ashan 🔮.
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashansube@gmail.com)
   
 </div>
+<br>
 
 <img align="center" height="50" src="https://media.giphy.com/media/ac53c0RDcdiK7svmFl/giphy.gif"/>
