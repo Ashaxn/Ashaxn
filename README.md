@@ -1,20 +1,11 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/37544078/121675236-c7430a80-cad0-11eb-9c30-df41232c2892.png" />
-</p>
+<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
-```js
-import SoftwareDeveloper from 'ashaxn';
+```diff
+hi, im ashan 🔮.
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Ashan Subawickrama';
-  title    = 'Programmer';
-  education  = 'SLIIT | 3rd Year';
-  location = 'Malabe, Sri Lanka';
-}
-
-class Skills extends SoftwareDeveloper {
-  languages  = ['Java', 'JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['Spring', 'React', 'React Native', 'Angular', 'GraphQL'];
-}
+@@advanced programming student.@@
++ living in kandy, sri lanka.
+- 23 years old
+! program engineer, web developer and shitposter
+# 📖 reverse engineering, computer science
 ```
