@@ -10,14 +10,17 @@ hi, im ashan 🔮.
 # 📖 reverse engineering, computer science
 ```
 
-<img align="right" height="200" src="https://media.giphy.com/media/ac53c0RDcdiK7svmFl/giphy.gif"/>
+<br>
+<br>
 
-```diff
-connect with me :telephone:
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-@@advanced programming student.@@
-+ [![gmail](https://img.shields.io/badge/pgp-0xB928720AEC532117-313131?style=flat-square&labelColor=313131&color=313131)](mailto:ashansube@gmail.com)   
-- [![twitter](https://img.shields.io/badge/-@orhunp__-313131?style=flat-square&labelColor=313131&logo=twitter&logoColor=white&color=313131)](https://twitter.com/ashansube)  
-! [![linkedin](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=LinkedIn&logoColor=white&color=313131)](https://www.linkedin.com/in/ashan-subawickrama/)  
-# [![stackoverflow](https://img.shields.io/badge/-@orhunp-313131?style=flat-square&labelColor=313131&logo=Patreon&logoColor=white&color=313131)](https://stackoverflow.com/users/9517297/ashan-subawickrama)
-```
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashan-subawickrama/)
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashansube)
+[![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9517297/ashan-subawickrama)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashansube@gmail.com)
+  
+</div>
+
+<img align="center" height="50" src="https://media.giphy.com/media/ac53c0RDcdiK7svmFl/giphy.gif"/>
